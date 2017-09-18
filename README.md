@@ -6,3 +6,4 @@
 2、ffmpeg 强大的处理视频的工具-必须导入</br>
 3、YfMediaPlayer.framework 播放器，短视频必需与该播放器配合使用 -必须导入</br>
 4、YFMediaPlayerPushStreaming.framework 录制器，主要功能为处理视频帧，录制短视频等等 -必须导入</br>
+5、开发者文档请参考链接[开发文档](http://www.yfcloud.com)</br>
